@@ -15,4 +15,4 @@
 | *Lastname* | Kral        |
 | *Country*  | Swizerland  |
 | *Country*  | ![ALT](https://icons.veryicon.com/32/Flag/European%20Flags/Switzerland%20flag.png) |
-
+| *Website*  | [MyWebsite](https://tim.krals.ch) |

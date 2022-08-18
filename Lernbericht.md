@@ -108,7 +108,7 @@ Beispiel:
 
 ## Verifikation
 
-> Ich musste eines erneut ins Gedächtnis rufen (mittels [W3Schools](https://www.w3schools.com/)) und habe demenstprechend viel gelernt in Sachen CSS.
+> Ich musste einiges erneut ins Gedächtnis rufen (mittels [W3Schools](https://www.w3schools.com/)) und habe demenstprechend viel gelernt in Sachen CSS.
 
 # Reflektion zum Arbeitsprozess
 

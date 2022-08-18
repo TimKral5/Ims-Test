@@ -5,9 +5,6 @@ Tim Kral
 Ich habe eine Benutzeroberfläche für mögliche spätere Projekte erstellt.
 
 ## Was habe ich gelernt?
-
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
-
 Ich habe gelernt, mit CSS besser umzugehen.
 
 ## Beschreibung
